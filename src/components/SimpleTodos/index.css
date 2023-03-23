@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  width: 100%;
+  background-color: #ffc2a0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.sub-container {
+  background-color: #ffffff;
+  height: 500px;
+  width: 900px;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #ff8542;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
